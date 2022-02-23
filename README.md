@@ -1,7 +1,18 @@
-# Vue 3 + Vite
+# このリポジトリは共同開発のフロントエンドプロジェクトを管理しています
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+# 環境
 
-## Recommended IDE Setup
+- Vue3(Vite を用いています)
+- VueRouter
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+> 参考記事
+>
+> [Vite で Vue3 + VueRouter + TailwindCSS の環境をつくる ②](https://www.sk-lab.co.jp/archives/11217)
+
+# ローカルでの開発手順
+
+## 1. サーバを立ち上げる
+
+```
+$ npm run dev
+```
