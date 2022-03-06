@@ -11,6 +11,10 @@
 
 # Git を使った共同開発
 
+```
+$ git pull origin git@github.com:techselect-joint-dev/frontend-Vue3.git
+```
+
 ## ⓪ 自分の担当したい issue を選んで Assignees を自分に設定する。
 
 <img width="580" alt="スクリーンショット 2021-07-05 22 21 47" src="https://user-images.githubusercontent.com/58542696/124477921-8db7a380-dddf-11eb-9831-a84a1b9022f0.png">
