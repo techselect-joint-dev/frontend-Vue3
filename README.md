@@ -12,7 +12,7 @@
 # Git を使った共同開発
 
 ```
-$ git clone git@github.com:techselect-joint-dev/frontend-Vue3.git
+$ git clone https://github.com/techselect-joint-dev/frontend-Vue3.git
 ```
 
 ## ⓪ 自分の担当したい issue を選んで Assignees を自分に設定する。
